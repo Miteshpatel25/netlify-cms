@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: https://github.com/Miteshpatel25/netlify-cms # Gulp will replace this with your GitHub repository
+  branch: master # Branch to update (master by default)
 media_folder: static/img
 public_folder: /img
 collections:
