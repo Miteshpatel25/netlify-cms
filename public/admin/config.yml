@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: Miteshpatel25/netlify-cms
+  name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
