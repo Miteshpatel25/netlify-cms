@@ -34,6 +34,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>first post from netlify cms</title>
+      <link>https://netlify-cms1.netlify.com/post/first-post-from-netlify-cms/</link>
+      <pubDate>Thu, 30 Nov 2017 12:19:44 +0000</pubDate>
+      
+      <guid>https://netlify-cms1.netlify.com/post/first-post-from-netlify-cms/</guid>
+      <description> Netlify CMS </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://netlify-cms1.netlify.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
